@@ -1,7 +1,7 @@
 streamlit
 pandas
 numpy
-opencc
+opencc-python-reimplemented
 openai
 openpyxl
 faiss-cpu
