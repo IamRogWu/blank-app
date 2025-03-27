@@ -4,3 +4,4 @@ numpy
 opencc
 openai
 openpyxl
+faiss-cpu
